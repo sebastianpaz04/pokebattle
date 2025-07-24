@@ -1,0 +1,16 @@
+# Node.js 
+pokebattle/node_modules/
+pokebattle/dist/
+pokebattle/.env
+
+# PHP Composer 
+pokemon/vendor/
+pokemon/.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs 
+.vscode/
+.idea/

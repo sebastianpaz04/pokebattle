@@ -1,0 +1,29 @@
+header {
+  background-color: #2f3237;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 8px;
+  z-index: 1000;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+h4{
+  color: white !important;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  margin-right: 12px;
+}
+
+h3{
+  color: blue !important;
+ font-family: 'Press Start 2P', cursive;
+}
+
+
+

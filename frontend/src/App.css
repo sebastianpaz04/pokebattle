@@ -1,0 +1,25 @@
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  padding: 1rem;
+  margin-top: 60px;
+}
+body {
+background-color : #edf3f9 
+;
+  background-size: 1400px 1400px; /* Ancho y alto */
+  background-repeat: no-repeat;
+  background-position: center;
+}
