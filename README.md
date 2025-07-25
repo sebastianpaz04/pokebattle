@@ -77,6 +77,21 @@ Además, estoy trabajando en migrar el backend a **Laravel**, mejorando la estru
 | **Base de datos**        | MySQL (estructura de tablas provista por la cátedra)                      |
 | **Control de versiones** | Git, GitHub                                                               |
 
+## 📸 Screenshots
+
+A continuación se muestran algunas capturas del proyecto en funcionamiento:
+
+### 🏠 Página de inicio (Estadísticas)
+![Homepage](docs/inicioPage.png)
+
+### 🔐 Formulario de Login
+![Registro](docs/registro.png)
+
+### 🎮 Juego de Cartas en acción
+![Juego](docs/juego.png)
+
+### 📊 Creación de Mazo
+![CrearMazo](docs/crearMazo.png)
 
 ## 🚀 Cómo ejecutar localmente
 
