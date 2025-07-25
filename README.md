@@ -84,7 +84,7 @@ A continuación se muestran algunas capturas del proyecto en funcionamiento:
 ### 🏠 Página de inicio (Estadísticas)
 ![Homepage](docs/inicioPage.png)
 
-### 🔐 Formulario de Login
+### 🔐 Formulario de Registro
 ![Registro](docs/registro.png)
 
 ### 🎮 Juego de Cartas en acción
